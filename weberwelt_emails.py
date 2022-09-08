@@ -76,7 +76,7 @@ def read_email_from_gmail():
 
   # First Email Follow Up
   #######################################################################################################################
-  # sheet_url = 'https://docs.google.com/spreadsheets/d/137nXK4BEfJOGU9uvubyi4dAijtexsJpWemJKcfzsxEM/edit#gid=1251324109'
+  # sheet_url = 'https://docs.google.com/spreadsheets/d/aisdiosajdioasjdiojasopdjaiopsdjipashdpiashdipashdipashdipashdipaspids'
   # url = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')
 
   # sheet_df = pd.read_csv(url,error_bad_lines=False, usecols = ['Name', 'Address', 'Email'])
